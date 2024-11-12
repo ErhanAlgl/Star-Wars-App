@@ -2,6 +2,10 @@
 
 This project is a React application built with Vite that allows users to explore Star Wars ships. Users can list ships, search for specific ships, view detailed information about each ship, and load more ships dynamically.
 
+## Live Demo
+
+[Live Demo](https://starwarscard.netlify.app) - Check out the live demo of the application
+
 ## Features
 
 - **List Ships**: Display a list of Star Wars ships.
